@@ -9,13 +9,13 @@ Docker image for HTTPie. For your convenience to run!
 On a machine with Docker, run the following commmand:
 
 ```shell
-docker run --rm nomaster/httpie GET https://example.com
+docker run --rm -t nomaster/httpie GET https://example.com
 ```
 
 Maybe even more convenient: set a shell alias!
 
 ```
-alias http="docker run --rm nomaster/httpie"
+alias http="docker run --rm -t nomaster/httpie"
 http GET https://example.com
 ```
 
