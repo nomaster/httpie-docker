@@ -21,4 +21,10 @@ http GET https://example.com
 
 ## Further information
 
-See the [HTTPie documentation](https://httpie.org/doc).
+For examples and usage, see the [man page](https://www.mankier.com/1/http).
+
+Also see the [HTTPie documentation](https://httpie.org/doc) for a complete reference.
+
+## Credits
+
+HTTPie by [Jakub Roztočil](https://github.com/jakubroztocil/httpie).
